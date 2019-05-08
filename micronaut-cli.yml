@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: streamingfileupload.error
+---
+testFramework: junit
+sourceLanguage: java
