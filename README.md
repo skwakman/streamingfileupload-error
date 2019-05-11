@@ -3,7 +3,7 @@ Demonstrates an issue with Micronaut 1.1.0 and `StreamingFileUpload` where acces
 
 Steps to reproduce:
 
-1. start the server (using gradle run or by starting Application class in a JVM)
+1. start the server (using `gradle run`)
 2. access http://localhost:8080/index.html from a browser and initiate a file upload using the supplied form
 3. watch the server's log output for the following exception:
 
